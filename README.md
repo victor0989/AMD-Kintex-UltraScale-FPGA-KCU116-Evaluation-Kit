@@ -1,7 +1,6 @@
-# AMD-Kintex-UltraScale-FPGA-KCU116-Evaluation-Kit
-AMD Kintex™ UltraScale+™ FPGA KCU116 Evaluation Kit
+# AMD Kintex™ UltraScale+ FPGA KCU116 Evaluation Kit
 
-# Recommendation for a Serious Project in Aviation or Motor Control
+![AMD Kintex UltraScale+ FPGA KCU116 Evaluation Kit](https://github.com/victor0989/AMD-Kintex-UltraScale-FPGA-KCU116-Evaluation-Kit/blob/main/2755134-kcu-116-kit-product.jpg)
 
 For a serious project in fields such as aviation or motor control—where robustness, performance, and comprehensive documentation are critical—it is recommended to consider the **AMD Kintex™ UltraScale+ FPGA KCU116 Evaluation Kit**. The following rationale explains this recommendation:
 
@@ -41,4 +40,3 @@ For a serious project in fields such as aviation or motor control—where robust
 Considering the importance of working with Verilog, utilizing IP blocks, and having access to extensive documentation and prototyping ease, the **Kintex™ UltraScale+ FPGA KCU116 Evaluation Kit** stands out as the ideal option. This kit leverages prior experience with UltraScale platforms while providing a balanced environment in terms of power, cost, and tool support—including the necessary XDC files for design.
 
 In summary, for a balance between performance, development ease, and robust documentation, the KCU116 is the most recommended choice for projects in aviation or motor control.
-
