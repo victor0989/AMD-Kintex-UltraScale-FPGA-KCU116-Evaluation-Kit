@@ -26,9 +26,6 @@ For a serious project in fields such as aviation or motor control—where robust
 **Disadvantages:**
 - Although less powerful than the Virtex series, its performance is more than adequate for aviation or motor control projects.
 
-> **Output interface of a square circuit ksm3 RAM/leds & GPIO signals**  
-![Screenshot](https://github.com/victor0989/AMD-Kintex-UltraScale-FPGA-KCU116-Evaluation-Kit/blob/main/Captura%20de%20pantalla%202025-02-27%20161554.png)
-
 ### 3. AMD Zynq™ 7000 SoC ZC702
 
 **Advantages:**
@@ -43,4 +40,7 @@ For a serious project in fields such as aviation or motor control—where robust
 Considering the importance of working with Verilog, utilizing IP blocks, and having access to extensive documentation and prototyping ease, the **Kintex™ UltraScale+ FPGA KCU116 Evaluation Kit** stands out as the ideal option. This kit leverages prior experience with UltraScale platforms while providing a balanced environment in terms of power, cost, and tool support—including the necessary XDC files for design.
 
 In summary, for a balance between performance, development ease, and robust documentation, the KCU116 is the most recommended choice for projects in aviation or motor control.
+
+> **Output interface of a square circuit ksm3 RAM/leds & GPIO signals**  
+![Screenshot](https://github.com/victor0989/AMD-Kintex-UltraScale-FPGA-KCU116-Evaluation-Kit/blob/main/Captura%20de%20pantalla%202025-02-27%20161554.png)
 
